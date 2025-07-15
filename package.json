@@ -1,6 +1,6 @@
 {
   "name": "nuxt-version",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Nuxt version module",
   "repository": "@nbaizakof/nuxt-version",
   "license": "MIT",
