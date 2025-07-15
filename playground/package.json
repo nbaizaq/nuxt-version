@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "my-module-playground",
+  "type": "module",
+  "version": "1.2.4",
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "generate": "nuxi generate"
+  },
+  "dependencies": {
+    "nuxt": "^3.17.7"
+  }
+}
